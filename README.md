@@ -3,7 +3,7 @@ Base64 to Blob Download JavaScritpt
 
 
 Url to test it:
-(https://jsfiddle.net/pookdeveloper/xo29yk1w/10/)
+(https://jsfiddle.net/pookdeveloper/h2x5op0q/)
 
 Example:
 
